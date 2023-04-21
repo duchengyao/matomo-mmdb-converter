@@ -13,5 +13,5 @@ Convert various geolocation formats to the MMDB (MaxMind GeoIP2 DB) format nativ
 
 ## TODO
 
-[x] ip2location to mmdb.
-[ ] qqwry to mmdb.
+* [x] ip2location to mmdb.
+* [ ] qqwry to mmdb.

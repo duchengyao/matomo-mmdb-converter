@@ -2,6 +2,13 @@
 
 Convert various geolocation formats to the MMDB (MaxMind GeoIP2 DB) format natively supported by Matomo.
 
+## Installation
+
+* `sudo apt-get install cpanminus`
+* `cpanm MaxMind::DB::Writer`
+* `cpanm IP::QQWry`
+* `cpanm Text::CSV_XS`
+
 ## ip2location
 
 > [ip2location-piwik](https://github.com/ip2location/ip2location-piwik) plugin of Matomo
